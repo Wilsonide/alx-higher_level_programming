@@ -44,4 +44,4 @@ class Square:
 
 
 if __name__ == "__main__":
-    Square()
+    Square(6).my_print()

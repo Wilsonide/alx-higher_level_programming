@@ -55,4 +55,6 @@ class Square:
 
 
 if __name__ == "__main__":
-    Square()
+   new =  Square(8,(2,4))
+   new.my_print()
+
